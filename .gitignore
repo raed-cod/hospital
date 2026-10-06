@@ -1,0 +1,22 @@
+# Python bytecode / Cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+
+# Sensitive environment variables
+.env
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Database / SQLite (in case you use local SQLite for testing)
+*.sqlite3
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
