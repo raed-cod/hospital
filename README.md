@@ -17,7 +17,7 @@ A production-ready, highly structured RESTful API for managing hospital operatio
 ## 📁 Project Architecture
 
 ```text
-housphtel/
+hospital/
 │
 ├── alembic/                # Database migration scripts
 ├── app/
